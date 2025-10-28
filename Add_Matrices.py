@@ -4,7 +4,6 @@ A=[[1,5,8],
 B=[[2,8,1],
    [9,7,4],
    [8,1,3]]
-
 Result=[[0,0,0],
         [0,0,0],
         [0,0,0]]
@@ -16,4 +15,5 @@ for i in range(len(A)):
         
 for i in Result:
     print(i)
+
 print(Result[1])
