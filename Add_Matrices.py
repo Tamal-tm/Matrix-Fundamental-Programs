@@ -7,7 +7,6 @@ B=[[2,8,1],
 
 
 
-
 Result=[[0,0,0],
         [0,0,0],
         [0,0,0]]
@@ -21,6 +20,7 @@ for i in Result:
     print(i)
 
 print(Result[1])
+
 
 
 
