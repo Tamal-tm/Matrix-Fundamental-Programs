@@ -6,7 +6,6 @@ B=[[4,9,15,1], # 3 x 4
    [7,8,1,5],
    [10,6,2,3]]
 
-
 Result=[[0,0,0,0], # 3 x 4
         [0,0,0,0],
         [0,0,0,0]]
@@ -20,6 +19,7 @@ for i in range(len(A)): # Will go inside A rows.
 for i in Result:
 
     print(i)
+
 
 
 
