@@ -14,11 +14,11 @@ for i in range(len(A)):
         Result[i][j]=A[i][j] + B[i][j] 
         print(Result)
 
-
 for i in Result:
     print(i)
 
 print(Result[1])
+
 
 
 
