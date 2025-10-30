@@ -13,11 +13,13 @@ for i in range(len(A)):
     for j in range(len(A[0])): # Row Wise Addition.
         Result[i][j]=A[i][j] + B[i][j] 
         print(Result)
-        
+
+
 for i in Result:
     print(i)
 
 print(Result[1])
+
 
 
 
